@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Числа с плав точ", "Числа с плав точ\Числа с плав точ.pyproj", "{0905E5F1-E2F7-4826-8407-9EA2FBA105FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0905E5F1-E2F7-4826-8407-9EA2FBA105FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0905E5F1-E2F7-4826-8407-9EA2FBA105FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF73951-8F8B-4A42-8D46-418F2736400B}
+	EndGlobalSection
+EndGlobal
